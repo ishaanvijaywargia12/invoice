@@ -12,6 +12,7 @@ const InvoiceItem = ({
   onRowDel,
   onRowAdd,
 }) => {
+  
   return (
     <div>
       <Table>

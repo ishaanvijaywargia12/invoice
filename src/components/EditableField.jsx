@@ -4,7 +4,6 @@ import Form from "react-bootstrap/Form";
 import InputGroup from "react-bootstrap/InputGroup";
 
 const EditableField = ({ cellData, onItemizedItemEdit }) => {
-  console.log(cellData)
   return (
     <InputGroup className="my-1 flex-nowrap">
       {cellData.leading != null && (

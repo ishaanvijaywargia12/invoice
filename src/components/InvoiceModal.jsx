@@ -178,7 +178,6 @@ const InvoiceModal = ({
           </Row>
         </div>
       </Modal>
-      
     </div>
   );
 };
